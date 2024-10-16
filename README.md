@@ -1,8 +1,14 @@
 ### Olá! Eu sou o Linguanotto 
 
-- 🌱 Estudando javascript, HTML, CSS, SQL.
-- 📫 Contate-me no email: flavio.linguanotto@fatec.sp.gov.br
-- 😄 Pronouns: ele/dele
+Estudante de Desenvolvimento de Software Multiplataforma na FATEC Jacareí e entusiasta de tecnologias inovadoras. Tenho experiência no laboratório maker, onde desenvolvo projetos que combinam robótica e sistemas embarcados. Sou especialista em:
+
+Linguagens: C, C++, JavaScript, HTML, CSS, Python
+
+Tecnologias: Robótica, IoT, Impressão 3D, Realidade Aumentada
+
+Aqui no GitHub, você encontrará projetos que refletem meu interesse por desenvolvimento de software, automação e soluções criativas. Vamos construir juntos!
+Contate-me no email: flavio.linguanotto@fatec.sp.gov.br
+ 
 
 ##
 <div align="center"> 
